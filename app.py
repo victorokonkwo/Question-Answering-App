@@ -5,7 +5,7 @@ import bs4 as bs
 import urllib.request
 
 st.sidebar.header("""
-© Harvinder Power
+© Victor Oko
 """)
 st.sidebar.markdown("This app allows users to input text of their choice using the tools provided (PDF, Wikipedia article or Textbox), and ask questions with the answer being extracted from the text.")
 st.sidebar.markdown("_When running the app the first time, it may take some time to initialise due to the requirements needing to be downloaded._")
